@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Mar 10 09:41:32 2024
 
-@author: kspen
-"""
 
 ## diabetes analysis ##
 import pandas as pd
